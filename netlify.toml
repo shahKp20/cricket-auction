@@ -1,0 +1,11 @@
+[build]
+  command = "node netlify-build.js"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

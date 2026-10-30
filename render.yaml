@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: npl-cricket-auction
+    runtime: node
+    plan: starter
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /api/state
+    disk:
+      name: auction-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DB_PATH
+        value: /var/data/auction.sqlite
+      - key: FRONTEND_ORIGIN
+        sync: false
+      - key: ADMIN_PIN
+        sync: false

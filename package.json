@@ -1,0 +1,1 @@
+{"name":"npl-cricket-auction","version":"1.0.0","private":true,"scripts":{"start":"node server.js","dev":"node --watch server.js"},"dependencies":{"better-sqlite3":"^11.8.1","dotenv":"^16.4.7","express":"^4.21.2","socket.io":"^4.8.1","xlsx":"https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"},"engines":{"node":">=20"}}

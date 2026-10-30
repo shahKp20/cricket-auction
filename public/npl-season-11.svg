@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">NPL Season 11, 2026</title><desc id="desc">NPL cricket auction crest for Season 11 in 2026</desc>
+<defs><clipPath id="crest"><circle cx="128" cy="125" r="103"/></clipPath><linearGradient id="gold" x2="0" y2="1"><stop stop-color="#ffe45b"/><stop offset="1" stop-color="#f5a900"/></linearGradient></defs>
+<circle cx="128" cy="125" r="108" fill="#f4ce35"/><circle cx="128" cy="125" r="98" fill="#123f9c"/>
+<g clip-path="url(#crest)"><path fill="#267c35" d="M0 145 79 95l49 30 52-47 80 50v130H0z"/><path fill="#f6cb32" d="M5 40h247v50H5z"/><path fill="#153c91" d="M-5 92h266v72H-5z"/></g>
+<path d="M30 99h38v67H30zm8 12v42m9-42v42m9-42v42" fill="#fff" stroke="#fff" stroke-width="4"/>
+<text x="42" y="154" fill="#fff" font-family="Arial,sans-serif" font-size="48" font-weight="900">N</text>
+<text x="101" y="154" fill="#fff" font-family="Arial,sans-serif" font-size="61" font-weight="900">P</text>
+<path d="M170 34c-9 9-10 21-4 30l-12 21 10 7 17-17 14 13 9-10-12-17 5-15-10-20z" fill="#ef3835"/><path d="m169 83-19 25 8 5 22-18m12-7 18 23 8-5-13-29" fill="none" stroke="#ef3835" stroke-width="9" stroke-linecap="round"/><path d="M174 37 183 18m15 22 18-12" stroke="#ef3835" stroke-width="7" stroke-linecap="round"/>
+<path d="M202 81h38v77h-38z" fill="#101f54" stroke="#f7d33f" stroke-width="3"/><text x="221" y="113" fill="#fff" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="800">20</text><text x="221" y="140" fill="#fff" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="800">26</text>
+<path d="M43 165h170l-15 27H58z" fill="#fff" stroke="#102c72" stroke-width="3"/><text x="128" y="185" fill="#153c91" text-anchor="middle" font-family="Georgia,serif" font-size="21" font-weight="900" font-style="italic">SEASON</text>
+<circle cx="207" cy="183" r="25" fill="#ef3835" stroke="#ffdc41" stroke-width="4"/><text x="207" y="193" fill="#fff" text-anchor="middle" font-family="Arial,sans-serif" font-size="29" font-weight="900">11</text>
+</svg>

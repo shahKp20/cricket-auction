@@ -1,0 +1,1 @@
+window.AUCTION_BACKEND_URL = '';
